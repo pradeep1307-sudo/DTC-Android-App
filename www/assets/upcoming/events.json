@@ -1,0 +1,592 @@
+[
+  {
+    "id": "church-picnit-2026-2026-08-09",
+    "title": "Church Picnit 2026",
+    "date": "2026-08-09",
+    "dateLabel": "Sunday, August 9, 2026 · 7:05 AM",
+    "time": "7:05 AM",
+    "location": "Denver Tamil Church, 9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%202-%202026-%2001_32_27%20PM.png",
+    "summary": "Toyhejt",
+    "details": [
+      "yohjry"
+    ]
+  },
+  {
+    "id": "teen-and-young-adult-service-2026-08-16",
+    "title": "Teen and Young Adult Service",
+    "date": "2026-08-16",
+    "dateLabel": "Sunday, August 16, 2026 · 4:30 PM",
+    "time": "4:30 PM",
+    "location": "Denver Tamil Church, 9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%205-%202026-%2007_20_24%20PM-2.png",
+    "summary": "Teen and Young Adult English Service",
+    "details": [
+      "Teen and Young Adult English Service"
+    ]
+  },
+  {
+    "id": "teens-young-adults-worship-sunday-2026-08-16",
+    "title": "TEENS & YOUNG ADULTS WORSHIP SUNDAY",
+    "date": "2026-08-16",
+    "dateLabel": "Sunday, August 16, 2026 · 4:30 PM",
+    "time": "4:30 PM",
+    "location": "Denver Tamil Church, 9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%205-%202026-%2007_20_24%20PM.png",
+    "summary": "🙌 Join us as our Teens & Young Adults lead an unforgettable worship experience.\n\n🕟 Time: 4:30 PM\n📍 Location: 9052 W Ken Caryl Ave, Littleton, CO 80128\n\n🎤 Message by Pastor Jude Francis",
+    "details": [
+      "Bring your friends, classmates, neighbors, and family. Everyone is welcome!",
+      "\"Let everything that has breath praise the Lord.\" — Psalm 150:6",
+      "❤️ Come. Worship. Be Encouraged. Leave Transformed."
+    ]
+  },
+  {
+    "id": "dafaf-2026-08-05",
+    "title": "dafaf",
+    "date": "2026-08-05",
+    "dateLabel": "Wednesday, August 5, 2026 · 6:41 PM",
+    "time": "6:41 PM",
+    "location": "Denver Tamil Church, 9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%202-%202026-%2001_26_36%20PM.png",
+    "summary": "dafafafsgf",
+    "details": [
+      "fsg"
+    ]
+  },
+  {
+    "id": "today-sver-2026-08-05",
+    "title": "Today Sver",
+    "date": "2026-08-05",
+    "dateLabel": "Wednesday, August 5, 2026 · 7:27 PM",
+    "time": "7:27 PM",
+    "location": "Denver Tamil Church, 9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%205-%202026-%2005_31_54%20PM.png",
+    "summary": "d",
+    "details": [
+      "s"
+    ]
+  },
+  {
+    "id": "daily-verse-2026-08-05",
+    "title": "DAILY VERSE",
+    "date": "2026-08-05",
+    "dateLabel": "Wednesday, August 5, 2026 · 7:12 PM",
+    "time": "7:12 PM",
+    "location": "The Lone Tree Hub",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%205-%202026-%2005_31_54%20PM.png",
+    "summary": "ff",
+    "details": [
+      "fgg"
+    ]
+  },
+  {
+    "id": "verse-of-the-day-2026-08-06",
+    "title": "VERSE OF THE DAY",
+    "date": "2026-08-06",
+    "dateLabel": "Thursday, August 6, 2026 · 6:02 PM",
+    "time": "6:02 PM",
+    "location": "5388 CLVOERBROOK CIR",
+    "image": "assets/upcoming/ChatGPT%20Image%20Aug%205-%202026-%2005_31_54%20PM.png",
+    "summary": "THIS IS JUST A TEST",
+    "details": [
+      "THIS IS JUST A TEST"
+    ]
+  },
+  {
+    "id": "sunday-service",
+    "title": "Sunday Service",
+    "dateLabel": "Every Sunday at 4:30 PM Mountain Time",
+    "time": "4:30 PM",
+    "recurrence": "weekly-sunday",
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT Image Aug 2, 2026, 08_22_15 PM.png",
+    "summary": "Worship, God’s Word, prayer, and fellowship. Everyone is welcome.",
+    "details": [
+      "Tamil worship service",
+      "Kids Sunday School",
+      "Communion Service on the first Sunday",
+      "Teen and Adult Sunday Service on the third Sunday",
+      "Join in person or watch online"
+    ]
+  },
+  {
+    "id": "communion-service",
+    "title": "Sunday Communion Service",
+    "dateLabel": "First Sunday of every month at 4:30 PM Mountain Time",
+    "time": "4:30 PM",
+    "recurrence": "first-sunday",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT Image Aug 2, 2026, 08_22_15 PM.png",
+    "summary": "Join our church family for Sunday worship and Communion as we remember Christ together.",
+    "details": [
+      "Held on the first Sunday of each month",
+      "Sunday worship begins at 4:30 PM",
+      "Communion service",
+      "Kids Sunday School",
+      "Everyone is welcome"
+    ]
+  },
+  {
+    "id": "teen-adult-service",
+    "title": "Teen and Adult Sunday Service",
+    "dateLabel": "Third Sunday of every month at 4:30 PM Mountain Time",
+    "time": "4:30 PM",
+    "recurrence": "third-sunday",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/ministry-youth.jpg",
+    "summary": "A third-Sunday service bringing teens and adults together for worship, God’s Word, prayer, and fellowship.",
+    "details": [
+      "Held on the third Sunday of each month",
+      "Service begins at 4:30 PM",
+      "Worship and Scripture teaching",
+      "Prayer and fellowship",
+      "Teens and adults are welcome"
+    ]
+  },
+  {
+    "id": "fasting-prayer-service",
+    "title": "Fasting and Prayer Service",
+    "dateLabel": "First Saturday of every month",
+    "recurrence": "first-saturday",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "A monthly time of fasting, focused prayer, and seeking God together as a church family.",
+    "details": [
+      "Held on the first Saturday of each month",
+      "Corporate fasting and prayer",
+      "Prayer for families, church, and community",
+      "Contact the church for the confirmed service time"
+    ]
+  },
+  {
+    "id": "womens-bible-study",
+    "title": "Women’s Bible Study",
+    "dateLabel": "First and third Thursday of every month · Online via Zoom",
+    "recurrence": "first-third-thursday",
+    "calendarOnly": true,
+    "location": "Online via Zoom",
+    "image": "assets/images/ministry-women.jpg",
+    "summary": "Women gather online to study God’s Word, pray together, and encourage one another in faith.",
+    "details": [
+      "Held on the first and third Thursday of each month",
+      "Join online through Zoom",
+      "Bible study and discussion",
+      "Prayer and encouragement",
+      "Contact the church for the meeting time and Zoom link"
+    ]
+  },
+  {
+    "id": "friday-prayer-bible-study",
+    "title": "Prayer & Bible Study",
+    "dateLabel": "Every Friday at 6:30 PM",
+    "time": "6:30 PM",
+    "recurrence": "weekly-friday",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Join us every Friday evening for prayer, Bible study, and encouragement in God's Word.",
+    "details": [
+      "Every Friday at 6:30 PM",
+      "Corporate prayer",
+      "Bible study and discussion",
+      "Fellowship and encouragement",
+      "Everyone is welcome"
+    ]
+  },
+  {
+    "id": "gods-promise-service",
+    "title": "God’s Promise Service",
+    "dateLabel": "First day of every month at 6:00 AM",
+    "time": "6:00 AM",
+    "recurrence": "first-of-month",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Begin each month in God’s presence with early-morning worship, Scripture, and prayer.",
+    "details": [
+      "Held on the first day of every month",
+      "Service begins at 6:00 AM",
+      "Worship and Scripture",
+      "Prayer for the new month",
+      "Contact the church to confirm the meeting location"
+    ]
+  },
+  {
+    "id": "homeless-outreach",
+    "title": "Homeless Outreach",
+    "date": "2026-08-08",
+    "dateLabel": "Saturday, August 8, 2026",
+    "location": "The Salvation Army Denver, 1901 29th St, Denver, CO 80216",
+    "image": "assets/upcoming/ChatGPT Image Aug 2, 2026, 09_16_32 AM.png",
+    "summary": "Our church will cook and serve a warm meal to neighbors experiencing homelessness.",
+    "details": [
+      "Cook with love",
+      "Serve with joy",
+      "Encourage with kindness",
+      "Pray with faith"
+    ]
+  },
+  {
+    "id": "power-surge",
+    "title": "Power Surge Summer 2026",
+    "dateLabel": "June–August 2026",
+    "image": "assets/upcoming/ChatGPT Image Aug 2, 2026, 09_30_53 AM.png",
+    "summary": "A summer of worship, outreach, family connection, and sharing hope in our community.",
+    "details": [
+      "Invite new families on the third Sunday",
+      "Homeless Outreach on August 8",
+      "Back to School Bash on August 16",
+      "Church Picnic on August 22",
+      "Sunday worship at 4:30 PM Mountain Time"
+    ]
+  },
+  {
+    "id": "back-to-school",
+    "title": "Back to School Bash",
+    "date": "2026-08-16",
+    "dateLabel": "August 16, 2026 at 4:30 PM",
+    "time": "4:30 PM",
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/upcoming/ChatGPT Image Jul 12, 2026, 05_28_37 PM (2).png",
+    "summary": "A church-family celebration and prayer for students, teachers, and families beginning a new school year.",
+    "details": [
+      "Prayer for our children",
+      "An encouraging message",
+      "Back-to-school blessing",
+      "Games and activities",
+      "Food and fellowship"
+    ]
+  },
+  {
+    "id": "church-picnic",
+    "title": "Church Picnic 2026",
+    "date": "2026-08-22",
+    "dateLabel": "Saturday, August 22, 2026 · 10:00 AM–5:00 PM",
+    "time": "10:00 AM–5:00 PM",
+    "location": "Pronghorn Park, 10557 Weathersfield Way, Highlands Ranch, CO 80129",
+    "image": "assets/upcoming/ChatGPT Image Aug 5, 2026, 04_13_49 PM.png",
+    "summary": "Bring family and friends for food, fellowship, games, worship, and faith.",
+    "details": [
+      "All generations are welcome",
+      "Food and fellowship",
+      "Family games",
+      "Worship and faith",
+      "Come as you are and leave as family"
+    ]
+  },
+  {
+    "id": "palm-sunday-2026",
+    "title": "Palm Sunday",
+    "date": "2026-03-29",
+    "dateLabel": "Sunday, March 29, 2026",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Begin Holy Week by remembering Jesus' triumphal entry into Jerusalem.",
+    "details": [
+      "Palm Sunday worship",
+      "Scripture and prayer",
+      "Beginning of Holy Week",
+      "Contact the church for confirmed service details"
+    ]
+  },
+  {
+    "id": "maundy-thursday-2026",
+    "title": "Maundy Thursday",
+    "date": "2026-04-02",
+    "dateLabel": "Thursday, April 2, 2026",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Remember the Last Supper and Christ's command to love and serve one another.",
+    "details": [
+      "Holy Week reflection",
+      "The Last Supper",
+      "Scripture and prayer",
+      "Contact the church for confirmed service details"
+    ]
+  },
+  {
+    "id": "good-friday-2026",
+    "title": "Good Friday Service",
+    "date": "2026-04-03",
+    "dateLabel": "Friday, April 3, 2026",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "A reverent gathering to remember the cross and the sacrifice of Jesus Christ.",
+    "details": [
+      "Good Friday worship",
+      "Meditation on the cross",
+      "Scripture and prayer",
+      "Contact the church for confirmed service time"
+    ]
+  },
+  {
+    "id": "holy-saturday-2026",
+    "title": "Holy Saturday Prayer",
+    "date": "2026-04-04",
+    "dateLabel": "Saturday, April 4, 2026",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "A quiet time of prayer and preparation as we await the joy of Resurrection Sunday.",
+    "details": [
+      "Quiet prayer",
+      "Holy Week reflection",
+      "Preparation for Easter",
+      "Contact the church for confirmed details"
+    ]
+  },
+  {
+    "id": "easter-sunday-2026",
+    "title": "Easter Sunday Celebration",
+    "date": "2026-04-05",
+    "dateLabel": "Sunday, April 5, 2026 at 4:30 PM",
+    "time": "4:30 PM",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Celebrate the resurrection of Jesus Christ with joyful worship, Scripture, and fellowship.",
+    "details": [
+      "Resurrection Sunday worship",
+      "Easter message",
+      "Prayer and celebration",
+      "Families and guests are welcome"
+    ]
+  },
+  {
+    "id": "ascension-day-2026",
+    "title": "Ascension Day",
+    "date": "2026-05-14",
+    "dateLabel": "Thursday, May 14, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Remember Christ's ascension and His continuing reign and mission.",
+    "details": [
+      "Scripture reflection",
+      "Prayer",
+      "The mission of the Church",
+      "Contact the church for gathering details"
+    ]
+  },
+  {
+    "id": "pentecost-sunday-2026",
+    "title": "Pentecost Sunday",
+    "date": "2026-05-24",
+    "dateLabel": "Sunday, May 24, 2026 at 4:30 PM",
+    "time": "4:30 PM",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Celebrate the coming of the Holy Spirit and the birth of the Church.",
+    "details": [
+      "Pentecost worship",
+      "Scripture teaching",
+      "Prayer for the Holy Spirit's work",
+      "Everyone is welcome"
+    ]
+  },
+  {
+    "id": "advent-sunday-2026",
+    "title": "First Sunday of Advent",
+    "date": "2026-11-29",
+    "dateLabel": "Sunday, November 29, 2026 at 4:30 PM",
+    "time": "4:30 PM",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Enter the Advent season with hope as we prepare to celebrate the coming of Christ.",
+    "details": [
+      "Advent worship",
+      "Scripture and prayer",
+      "A season of hope and preparation",
+      "Families and guests are welcome"
+    ]
+  },
+  {
+    "id": "christmas-eve-2026",
+    "title": "Christmas Eve",
+    "date": "2026-12-24",
+    "dateLabel": "Thursday, December 24, 2026",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Gather in worship and wonder as we celebrate the birth of Jesus Christ.",
+    "details": [
+      "Christmas worship",
+      "The Nativity story",
+      "Prayer and fellowship",
+      "Contact the church for confirmed service time"
+    ]
+  },
+  {
+    "id": "christmas-day-2026",
+    "title": "Christmas Day",
+    "date": "2026-12-25",
+    "dateLabel": "Friday, December 25, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Celebrate the birth of Jesus Christ and the joy, peace, and hope He brings.",
+    "details": [
+      "Christmas Day",
+      "Celebrating the birth of Christ",
+      "Family prayer and thanksgiving",
+      "Contact the church for gathering details"
+    ]
+  },
+  {
+    "id": "watch-night-2026",
+    "title": "Year-End Thanksgiving & Prayer",
+    "date": "2026-12-31",
+    "dateLabel": "Thursday, December 31, 2026",
+    "calendarOnly": true,
+    "location": "9052 W Ken Caryl Ave, Littleton, CO 80128",
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Close the year with thanksgiving, testimony, worship, and prayer for the year ahead.",
+    "details": [
+      "Year-end thanksgiving",
+      "Worship and testimony",
+      "Prayer for the new year",
+      "Contact the church for confirmed service time"
+    ]
+  },
+  {
+    "id": "new-years-day-2026",
+    "title": "New Year's Day — U.S. Holiday",
+    "date": "2026-01-01",
+    "dateLabel": "Thursday, January 1, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "New Year's Day is a United States federal holiday.",
+    "details": [
+      "United States federal holiday",
+      "Church activities are listed separately",
+      "Check the calendar for the monthly God's Promise Service"
+    ]
+  },
+  {
+    "id": "mlk-day-2026",
+    "title": "Martin Luther King Jr. Day",
+    "date": "2026-01-19",
+    "dateLabel": "Monday, January 19, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "A U.S. federal holiday honoring the life and legacy of Dr. Martin Luther King Jr.",
+    "details": [
+      "United States federal holiday",
+      "A day of remembrance and service",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "presidents-day-2026",
+    "title": "Presidents Day — U.S. Holiday",
+    "date": "2026-02-16",
+    "dateLabel": "Monday, February 16, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Washington's Birthday, commonly known as Presidents Day, is a U.S. federal holiday.",
+    "details": [
+      "United States federal holiday",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "memorial-day-2026",
+    "title": "Memorial Day — U.S. Holiday",
+    "date": "2026-05-25",
+    "dateLabel": "Monday, May 25, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "A U.S. federal holiday remembering those who died while serving in the Armed Forces.",
+    "details": [
+      "United States federal holiday",
+      "A day of remembrance",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "juneteenth-2026",
+    "title": "Juneteenth — U.S. Holiday",
+    "date": "2026-06-19",
+    "dateLabel": "Friday, June 19, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Juneteenth National Independence Day is a United States federal holiday.",
+    "details": [
+      "United States federal holiday",
+      "Commemorates the end of slavery in the United States",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "independence-day-2026",
+    "title": "Independence Day — U.S. Holiday",
+    "date": "2026-07-04",
+    "dateLabel": "Saturday, July 4, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Independence Day is a United States federal holiday.",
+    "details": [
+      "United States federal holiday",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "labor-day-2026",
+    "title": "Labor Day — U.S. Holiday",
+    "date": "2026-09-07",
+    "dateLabel": "Monday, September 7, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Labor Day is a U.S. federal holiday honoring American workers.",
+    "details": [
+      "United States federal holiday",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "columbus-day-2026",
+    "title": "Columbus Day — U.S. Holiday",
+    "date": "2026-10-12",
+    "dateLabel": "Monday, October 12, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Columbus Day is observed as a United States federal holiday.",
+    "details": [
+      "United States federal holiday",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "veterans-day-2026",
+    "title": "Veterans Day — U.S. Holiday",
+    "date": "2026-11-11",
+    "dateLabel": "Wednesday, November 11, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Veterans Day is a U.S. federal holiday honoring military veterans.",
+    "details": [
+      "United States federal holiday",
+      "A day to honor veterans",
+      "Church activities are listed separately"
+    ]
+  },
+  {
+    "id": "thanksgiving-day-2026",
+    "title": "Thanksgiving Day — U.S. Holiday",
+    "date": "2026-11-26",
+    "dateLabel": "Thursday, November 26, 2026",
+    "calendarOnly": true,
+    "image": "assets/images/church-sanctuary-hero.jpg",
+    "summary": "Thanksgiving Day is a United States federal holiday and a time for gratitude.",
+    "details": [
+      "United States federal holiday",
+      "A day of thanksgiving and gratitude",
+      "Church activities are listed separately"
+    ]
+  }
+]

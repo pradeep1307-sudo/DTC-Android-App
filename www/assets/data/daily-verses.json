@@ -1,0 +1,23 @@
+{
+  "translation": "World English Bible (WEB)",
+  "license": "Public domain",
+  "source": "https://ebible.org/web/",
+  "verses": [
+    { "reference": "Psalm 118:24", "text": "This is the day that Yahweh has made. We will rejoice and be glad in it!" },
+    { "reference": "Proverbs 3:5", "text": "Trust in Yahweh with all your heart, and don't lean on your own understanding." },
+    { "reference": "Philippians 4:13", "text": "I can do all things through Christ, who strengthens me." },
+    { "reference": "Psalm 46:10", "text": "Be still, and know that I am God." },
+    { "reference": "John 8:12", "text": "I am the light of the world. He who follows me will not walk in the darkness, but will have the light of life." },
+    { "reference": "Romans 12:12", "text": "Rejoicing in hope; enduring in troubles; continuing steadfastly in prayer." },
+    { "reference": "1 Peter 5:7", "text": "Casting all your worries on him, because he cares for you." },
+    { "reference": "Psalm 119:105", "text": "Your word is a lamp to my feet, and a light for my path." },
+    { "reference": "Isaiah 41:10", "text": "Don't you be afraid, for I am with you. Don't be dismayed, for I am your God." },
+    { "reference": "Matthew 5:16", "text": "Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven." },
+    { "reference": "Colossians 3:15", "text": "Let the peace of God rule in your hearts, to which also you were called in one body, and be thankful." },
+    { "reference": "Psalm 34:8", "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him." },
+    { "reference": "Hebrews 11:1", "text": "Now faith is assurance of things hoped for, proof of things not seen." },
+    { "reference": "John 13:34", "text": "Just as I have loved you, you also love one another." },
+    { "reference": "Psalm 23:1", "text": "Yahweh is my shepherd; I shall lack nothing." },
+    { "reference": "Numbers 6:24", "text": "Yahweh bless you, and keep you." }
+  ]
+}

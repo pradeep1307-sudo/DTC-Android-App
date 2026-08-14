@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.denvertamilchurch.app",
+      "sha256_cert_fingerprints": [
+        "47:DD:01:9C:66:A9:56:96:A4:28:4E:65:B6:76:51:A7:11:69:17:85:F6:18:AA:EF:81:F3:3C:E7:94:4A:90:FC"
+      ]
+    }
+  }
+]

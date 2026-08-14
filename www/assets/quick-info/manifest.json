@@ -1,0 +1,12 @@
+{
+  "worship": [
+    "assets/quick-info/worship/Untitled.png",
+    "assets/images/quick-info-worship-ai.png"
+  ],
+  "location": [
+    "assets/images/quick-info-location-ai.png"
+  ],
+  "call": [
+    "assets/images/quick-info-call-ai.png"
+  ]
+}

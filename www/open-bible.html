@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Opening Denver Tamil Church Bible…</title>
+  <style>body{margin:0;display:grid;min-height:100vh;place-items:center;background:#071d49;color:#fff;font:600 16px system-ui;text-align:center}main{padding:24px}a{color:#f4cf73}</style>
+</head>
+<body>
+  <main><p>Opening this verse in the Denver Tamil Church app…</p><p><a id="store-link" href="#">Download the app</a></p></main>
+  <script>
+    (() => {
+      const reference = new URLSearchParams(location.search).get('reference') || 'John 3:16';
+      const deepLink = `denvertamilchurch://bible?reference=${encodeURIComponent(reference)}`;
+      const androidStore = 'https://play.google.com/store/apps/details?id=org.denvertamilchurch.app';
+      const appleStore = `https://apps.apple.com/us/search?term=${encodeURIComponent('Denver Tamil Church')}`;
+      const store = /iPad|iPhone|iPod/.test(navigator.userAgent) ? appleStore : androidStore;
+      document.getElementById('store-link').href = store;
+      let fallback = setTimeout(() => location.replace(store), 1600);
+      document.addEventListener('visibilitychange', () => { if (document.hidden) { clearTimeout(fallback); fallback = null; } });
+      location.replace(deepLink);
+    })();
+  </script>
+</body>
+</html>

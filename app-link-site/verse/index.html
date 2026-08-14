@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Denver Tamil Church App</title></head>
+<body>
+  <p>Opening the Denver Tamil Church app…</p>
+  <p><a id="store" href="#">Download the app</a></p>
+  <script>
+    (() => {
+      const reference = new URLSearchParams(location.search).get('reference') || 'John 3:16';
+      const app = `denvertamilchurch://bible?reference=${encodeURIComponent(reference)}`;
+      const android = 'https://play.google.com/store/apps/details?id=org.denvertamilchurch.app';
+      const ios = `https://apps.apple.com/us/search?term=${encodeURIComponent('Denver Tamil Church')}`;
+      const store = /iPad|iPhone|iPod/.test(navigator.userAgent) ? ios : android;
+      document.getElementById('store').href = store;
+      let fallback = setTimeout(() => location.replace(store), 1500);
+      document.addEventListener('visibilitychange', () => { if (document.hidden) clearTimeout(fallback); });
+      location.replace(app);
+    })();
+  </script>
+</body>
+</html>

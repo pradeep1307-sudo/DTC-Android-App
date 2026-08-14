@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>document.documentElement.classList.add('js-preparing');setTimeout(()=>document.documentElement.classList.remove('js-preparing'),2500);</script><style>html.js-preparing body{visibility:hidden}</style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gallery | Denver Tamil Church</title>
+    <meta name="description" content="Photos from worship services, ministries, and events at Denver Tamil Church." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="design-system.css?v=20260809-refresh-stable" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="page-header">
+      <nav class="page-nav" aria-label="Main navigation">
+        <a class="brand" href="index.html"><img class="logo" src="lOGO.png" alt="Denver Tamil Church logo" width="142" height="94" /></a>
+        <div class="nav-links"></div>
+        <div class="lang-switch">
+          <button class="lang-btn active" type="button" data-lang="en">EN</button>
+          <button class="lang-btn" type="button" data-lang="ta">TA</button>
+        </div>
+      </nav>
+    </header>
+
+    <main class="gallery-page" id="main-content">
+      <section class="gallery-hero-panel">
+        <p class="eyebrow"><span class="lang" data-lang="en">Life at our church</span><span class="lang" data-lang="ta">à®Žà®™à¯à®•à®³à¯ à®šà®ªà¯ˆà®¯à®¿à®©à¯ à®µà®¾à®´à¯à®•à¯à®•à¯ˆ</span></p>
+        <h1><span class="lang" data-lang="en">Gallery</span><span class="lang" data-lang="ta">à®ªà¯à®•à¯ˆà®ªà¯à®ªà®Ÿà®¤à¯ à®¤à¯Šà®•à¯à®ªà¯à®ªà¯</span></h1>
+        <p><span class="lang" data-lang="en">Explore moments of worship, fellowship, service, and celebration.</span><span class="lang" data-lang="ta">à®†à®°à®¾à®¤à®©à¯ˆ, à®à®•à¯à®•à®¿à®¯à®®à¯, à®šà¯‡à®µà¯ˆ à®®à®±à¯à®±à¯à®®à¯ à®•à¯Šà®£à¯à®Ÿà®¾à®Ÿà¯à®Ÿà®¤à¯à®¤à®¿à®©à¯ à®¤à®°à¯à®£à®™à¯à®•à®³à¯ˆà®•à¯ à®•à®¾à®£à¯à®™à¯à®•à®³à¯.</span></p>
+      </section>
+
+      <section class="gallery-albums" aria-labelledby="gallery-albums-title">
+        <div class="gallery-heading">
+          <h2 id="gallery-albums-title"><span class="lang" data-lang="en">Church Events</span><span class="lang" data-lang="ta">à®šà®ªà¯ˆ à®¨à®¿à®•à®´à¯à®µà¯à®•à®³à¯</span></h2>
+          <p><span class="lang" data-lang="en">Select an album to view every photo.</span><span class="lang" data-lang="ta">à®…à®©à¯ˆà®¤à¯à®¤à¯ à®ªà¯à®•à¯ˆà®ªà¯à®ªà®Ÿà®™à¯à®•à®³à¯ˆà®¯à¯à®®à¯ à®•à®¾à®£ à®’à®°à¯ à®¤à¯Šà®•à¯à®ªà¯à®ªà¯ˆà®¤à¯ à®¤à¯‡à®°à¯à®¨à¯à®¤à¯†à®Ÿà¯à®•à¯à®•à®µà¯à®®à¯.</span></p>
+        </div>
+        <div class="gallery-album-grid" aria-live="polite">
+          <p class="gallery-loading"><span class="lang" data-lang="en">Loading albumsâ€¦</span><span class="lang" data-lang="ta">à®¤à¯Šà®•à¯à®ªà¯à®ªà¯à®•à®³à¯ à®à®±à¯à®±à®ªà¯à®ªà®Ÿà¯à®•à®¿à®©à¯à®±à®©â€¦</span></p>
+        </div>
+      </section>
+    </main>
+
+    <dialog class="gallery-dialog" aria-labelledby="gallery-dialog-title">
+      <div class="gallery-dialog-bar">
+        <div><h2 id="gallery-dialog-title">Gallery</h2><p class="gallery-dialog-count"></p></div>
+        <button class="gallery-dialog-close" type="button" aria-label="Close gallery">Ã—</button>
+      </div>
+      <div class="gallery-viewer">
+        <button class="gallery-viewer-arrow gallery-viewer-arrow--left" type="button" aria-label="Previous photo">â†</button>
+        <img class="gallery-viewer-image" alt="" />
+        <button class="gallery-viewer-arrow gallery-viewer-arrow--right" type="button" aria-label="Next photo">â†’</button>
+      </div>
+      <div class="gallery-thumbnails"></div>
+    </dialog>
+
+    <footer class="footer page-footer"><div><p>@2004 DENVER TAMIL CHURCH Â· 9052 W Ken Caryl Ave Â· Littleton, CO 80128</p></div></footer>
+    <script src="js/script.js?v=20260809-refresh-stable"></script>
+  <script src="mobile-bridge.js"></script>
+  </body>
+</html>
+

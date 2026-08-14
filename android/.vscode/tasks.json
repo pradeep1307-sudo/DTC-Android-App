@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "DTC: Launch app when device connects",
+      "type": "shell",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\scripts\\start-app-on-device.ps1"
+      ],
+      "isBackground": true,
+      "runOptions": {
+        "runOn": "folderOpen",
+        "instanceLimit": 1
+      },
+      "problemMatcher": {
+        "owner": "dtc-device-watcher",
+        "pattern": {
+          "regexp": "^(ERROR: )(.*)$",
+          "severity": 1,
+          "message": 2
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^DTC device watcher started$",
+          "endsPattern": "^(Waiting for Android device|Denver Tamil Church app launched)$"
+        }
+      },
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated",
+        "clear": false,
+        "showReuseMessage": false
+      }
+    }
+  ]
+}

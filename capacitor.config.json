@@ -1,0 +1,10 @@
+{
+  "appId": "org.denvertamilchurch.app",
+  "appName": "Denver Tamil Church",
+  "webDir": "www",
+  "backgroundColor": "#071d49",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true
+  }
+}
